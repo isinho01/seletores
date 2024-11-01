@@ -32,3 +32,6 @@ div > p{
 .navbar h1{
     color: green;
 }
+nav{
+    color: red;
+}
